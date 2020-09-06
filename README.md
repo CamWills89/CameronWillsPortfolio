@@ -21,6 +21,6 @@ demonstrate who I am as a professional web developer. It is meant to demonstrate
 
 ### Link
 
-[Live URL](https://camwills89.github.io/)
+[Live URL](https://camwills89.github.io/CameronWillsPortfolio/)
 
 [Github repository](https://github.com/CamWills89/CameronWillsPortfolio)
