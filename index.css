@@ -213,7 +213,7 @@ body:not(.user-is-tabbing) a:focus {
     color: var(--pink);
 }
 
-.btn {
+.btn, .skill {
     position: relative;
     display: inline-block;
     padding: 1rem 4.2rem;
